@@ -1,3 +1,5 @@
+![image](https://github.com/iguanajuice/sway-font-awesome/assets/125163000/5be1e6b9-6282-4222-ae7f-cbda96e8f152)
+
 Inspired by [this comment,](https://github.com/swaywm/sway/issues/4882#issuecomment-611464474) this is a sway config file for adding icons in title bars using [Font Awesome](https://fontawesome.com/search?o=r&m=free).
 
 Normally, this is very tedidous to do; so to not waste time on a grand scale with everyone manually trying to specifiy an icon for each app, I decided to make this repo as a shortcut for people who are interested.
