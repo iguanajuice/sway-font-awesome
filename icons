@@ -1,4 +1,4 @@
-for_window [app_id=^alacritty$|^kitty$|foot$|^footclient$] title_format " %title"
+for_window [app_id=^alacritty$|^kitty$|^foot$|^footclient$] title_format " %title"
 for_window [app_id=^com.github.tchx84.Flatseal$] title_format " %title"
 for_window [app_id=^dconf-editor$] title_format " %title"
 for_window [app_id=^eog$] title_format " %title"
