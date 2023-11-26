@@ -26,4 +26,4 @@ include icons
 
 # Contribution
 
-If there are any apps that I haven't added an icon for yet; please open an issue or a PR.
+If there are any apps that I haven't added an icon for yet; please open an issue.
