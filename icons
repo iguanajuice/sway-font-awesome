@@ -16,7 +16,7 @@ for_window [app_id=^soundux$] title_format " %title"
 for_window [app_id=^vlc$] title_format " %title"
 
 for_window [class=^Audacity$] title_format " %title"
-for_window [class=^Brave-browser$|^Vivaldi-stable$] title_format " %title"
+for_window [class=^Brave-browser$|^Vivaldi-stable$] title_format " %title"
 for_window [class=^Chromium-browser$] title_format " %title"
 for_window [class=^Discord$|^WebCord$] title_format " %title"
 for_window [class=^krita$] title_format " %title"
