@@ -1,5 +1,5 @@
 for_window [app_id=^alacritty$|^kitty$|^foot$|^footclient$] title_format " %title"
-for_window [app_id=^caja$|^nautilus$|^nemo$|^pcmanfm$|^pcmanfm-qt$|^thunar$] title_format " %title"
+for_window [app_id=^caja$|^nemo$|^org.gnome.Nautilus$|^pcmanfm$|^pcmanfm-qt$|^thunar$] title_format " %title"
 for_window [app_id=^celluloid$] title_format " %title"
 for_window [app_id=^com.github.tchx84.Flatseal$] title_format " %title"
 for_window [app_id=^dconf-editor$] title_format " %title"
