@@ -1,6 +1,6 @@
 for_window [app_id=^alacritty$|^foot$|^footclient$|^kitty$|-terminal$] title_format "­<span size='x-large'>  </span>%title"
 for_window [app_id=^audacity$] title_format "­<big>  </big>%title"
-for_window [app_id=^blender$] title_format "­<big>󰂫  </big>%title"
+for_window [app_id=^blender$] title_format "­<span size='x-large'>󰂫  </span>%title"
 for_window [app_id=^com.github.tchx84.Flatseal$] title_format "­<big>󱛟  </big>%title"
 for_window [app_id=^com.obsproject.Studio$] title_format "­<big>  </big>%title"
 for_window [app_id=^de.shorsh.discord-screenaudio$] title_format "­<big>  </big>%title"
