@@ -31,3 +31,5 @@ include icons
 If there are any apps that I haven't added an icon for yet; please open an issue with the `app_id` or `class` of the application that's missing an icon.
 
 You can find the app_id/class by launching the app and running `swaymsg -t get_tree` in a terminal.
+
+Be sure to update via `git pull` before opening any issues.
