@@ -12,6 +12,9 @@ Arch-based:
 ```
 sudo pacman -S ttf-nerd-fonts-symbols
 ```
+
+Every other distro: https://github.com/ryanoasis/nerd-fonts/releases/download/v3.1.1/NerdFontsSymbolsOnly.zip
+
 It's also recommended to remove Font Awesome to avoid conflicts:
 ```
 sudo pacman -R ttf-font-awesome
