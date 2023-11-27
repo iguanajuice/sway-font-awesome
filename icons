@@ -9,7 +9,7 @@ for_window [app_id=^discord$|^webcord$] title_format "­<span size='larger'>󰙯
 for_window [app_id=^dolphin$|^nemo$|^org.gnome.Nautilus$|^pcmanfm$|^pcmanfm-qt$|^thunar$] title_format "­<span size='larger'>  </span>%title"
 for_window [app_id=^dconf-editor$] title_format "­<span size='larger'>  </span>%title"
 for_window [app_id=^eog$|^eom$|^feh$|^ristretto$|^xviewer$] title_format "­<span size='larger'>  </span>%title"
-for_window [app_id=^epiphany$|^org.qutebrowser.qutebrowser$] title_format "­<span size='x-large'>  </span>%title"
+for_window [app_id=^epiphany$|^org.qutebrowser.qutebrowser$] title_format "­<span size='larger'>  </span>%title"
 for_window [app_id=^file-roller$] title_format "­<span size='larger'>  </span>%title"
 for_window [app_id=^firefox$|^librewolf$|^firedragon$] title_format "­<span size='x-large'>󰈹  </span>%title"
 for_window [app_id=^galculator$|^gnome-calculator$|^mate-calc$|^org.kde.kalk$|^org.kde.kcalc$|^qalculate-gtk$] title_format "­<span size='larger'>󰃬  </span>%title"
@@ -41,7 +41,7 @@ for_window [app_id=^vlc$] title_format "­<span size='larger'>󰕼  </span>%titl
 
 for_window [class=^Audacity$|^lmms] title_format "­<span size='larger'>  </span>%title"
 for_window [class=^Ardour-|^REAPER$|^Renoise$] title_format "­<span size='larger'>󰝪  </span>%title"
-for_window [class=^Brave-browser$|^Vivaldi-stable$] title_format "­<span size='x-large'>  </span>%title"
+for_window [class=^Brave-browser$|^Vivaldi-stable$] title_format "­<span size='larger'>  </span>%title"
 for_window [class=^Caja$|^Pcmanfm$] title_format "­<span size='larger'> </span>%title"
 for_window [class=^Chromium$|^Chromium-browser$|^Google-chrome$] title_format "­<span size='larger'>  </span>%title"
 for_window [class=^qBittorrent$|^transmission$] title_format "­<span size='larger'>  </span>%title"
