@@ -43,7 +43,7 @@ Things to know before contributing:
 * Be sure to update via `git pull` before opening any issues.
 * Everything should be sorted alphabetically.
 * `app_id` and `class` entries should stay seperated.
-* Icon should be wrapped in \<big> and \</big> tags.
-* Inbetween the icon and \</big> there must be 2 spaces.
-* Due to a bug in god knows where, the first \<big> tag must be preceded by a soft-hyphen. You can type this special character by pressing Ctrl+Shift+u, typing "ad", and pressing enter.
-* If an icon is smaller than average, replace \<big> with \<span size='x-large'> and \</big> with \</span>.
+* Icon should be wrapped in \<span size='larger'> and \</span> tags.
+* Inbetween the icon and \</span> there must be 2 spaces.
+* Due to a bug in god knows where, the first \<span> tag must be preceded by a soft-hyphen. You can type this special character by pressing Ctrl+Shift+u, typing "ad", and pressing enter.
+* If an icon is smaller than average, replace size='larger' with size='x-large'.
