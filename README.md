@@ -27,7 +27,7 @@ include icons
 
 4. Enable pango in sway's config:
 ```
-pango:MyFont
+pango:YourChoiceOfFont
 ```
 
 # Contribution
