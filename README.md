@@ -18,7 +18,7 @@ Debian-based:
 sudo apt install fonts-font-awesome
 ```
 
-2. Copy the `icons` file to `~/.config/sway`
+2. Copy the `icons` file to `~/.config/sway/`
 
 3. Add line...
 ```
