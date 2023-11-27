@@ -42,4 +42,4 @@ Things to know before contributing:
 * `app_id` and `class` entries should stay seperated.
 * Icon should be wrapped in \<big> and \</big> tags.
 * Inbetween the icon and \</big> there must be 2 spaces.
-* Due to a bug in god knows where, the first \<big> tag must be proceded by a soft-hyphen. You can type this special character by pressing Ctrl+Shift+u, typing "ad", and pressing enter.
+* Due to a bug in god knows where, the first \<big> tag must be preceded by a soft-hyphen. You can type this special character by pressing Ctrl+Shift+u, typing "ad", and pressing enter.
