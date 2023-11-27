@@ -38,6 +38,8 @@ You can find the app_id/class by launching the app and running `swaymsg -t get_t
 
 Things to know before contributing:
 * Be sure to update via `git pull` before opening any issues.
+* Everything should be sorted alphabetically.
+* `app_id` and `class` entries should stay seperated.
 * Icon should be wrapped in \<big> and \</big> tags.
 * Inbetween \</big> and %title there should be 2 spaces.
 * Due to a bug in god knows where, the first \<big> tag must be proceded by a soft-hyphen. You can type this special character by pressing Ctrl+Shift+u, typing "ad", and pressing enter.
