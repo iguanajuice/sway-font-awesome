@@ -6,16 +6,15 @@ Normally, this is very tedidous to do; so to not waste time on a grand scale wit
 
 # Usage
 
-1. Install Font Awesome, if not already installed.
+1. Install Nerd Font Symbols, if not already installed.
 
 Arch-based:
 ```
-sudo pacman -S ttf-font-awesome
+sudo pacman -S ttf-nerd-fonts-symbols
 ```
-
-Debian-based:
+It's also recommended to remove Font Awesome to avoid conflicts:
 ```
-sudo apt install fonts-font-awesome
+sudo pacman -R ttf-font-awesome
 ```
 
 2. Copy the `icons` file to `~/.config/sway/`
@@ -26,10 +25,19 @@ include icons
 ```
 ...to `~/.config/sway/config`
 
+4. Enable pango in sway's config:
+```
+pango:MyFont
+```
+
 # Contribution
 
 If there are any apps that I haven't added an icon for yet; please open an issue with the `app_id` or `class` of the application that's missing an icon.
 
 You can find the app_id/class by launching the app and running `swaymsg -t get_tree` in a terminal.
 
-Be sure to update via `git pull` before opening any issues.
+Things to know before contributing:
+* Be sure to update via `git pull` before opening any issues.
+* Icon should be wrapped in \<big> and \</big> tags.
+* Inbetween \</big> and %title there should be 2 spaces.
+* Due to a bug in god knows where, the first \<big> tag must be proceded by a soft-hyphen. You can type this special character by pressing Ctrl+Shift+u, typing "ad", and pressing enter.
