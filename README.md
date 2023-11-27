@@ -30,7 +30,7 @@ include icons
 
 4. Enable pango in sway's config:
 ```
-pango:YourChoiceOfFont
+font pango:YourChoiceOfFont font_size
 ```
 
 # Contribution
