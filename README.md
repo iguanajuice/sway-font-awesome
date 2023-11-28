@@ -25,7 +25,7 @@ Arch-based:
 sudo pacman -S ttf-nerd-fonts-symbols
 ```
 
-Every other distro: https://github.com/ryanoasis/nerd-fonts/releases/download/v3.1.1/NerdFontsSymbolsOnly.zip
+Every other distro: https://github.com/ryanoasis/nerd-fonts/releases
 
 3. Copy the `icons` file to `~/.config/sway/`
 
