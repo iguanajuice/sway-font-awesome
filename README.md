@@ -1,4 +1,4 @@
-![image](https://github.com/iguanajuice/sway-font-awesome/assets/125163000/5be1e6b9-6282-4222-ae7f-cbda96e8f152)
+![image](https://github.com/iguanajuice/sway-font-awesome/assets/125163000/7d0f9d47-27e3-4525-8177-c66a70370410)
 
 Inspired by [this comment,](https://github.com/swaywm/sway/issues/4882#issuecomment-611464474) this is a sway config file for adding icons in title bars using [Font Awesome](https://fontawesome.com/search?o=r&m=free) and [Nerd Fonts Symbols.](https://www.nerdfonts.com/cheat-sheet)
 
