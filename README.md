@@ -53,5 +53,5 @@ Things to know before contributing:
 * Icon should be from Font Awesome primarily; only use Nerd Fonts Symbols if FA has nothing better.
 * Icon should be wrapped in \<span size='100%'> and \</span> tags.
 * Inbetween the icon and \</span> there must be 2 spaces.
-* Due to a bug in god knows where, the first \<span> tag must be preceded by a soft-hyphen. You can type this special character by pressing Ctrl+Shift+u, typing "ad", and pressing enter.
-* If an icon is smaller than average, increase size to either 110%, 125%, or 150%.
+* Due to a bug in god knows where, the first \<span> tag must be preceded by a soft-hyphen. You can type this special character by pressing Ctrl+Shift+u, typing "ad", and then pressing enter.
+* If an icon is rendered too small, increase size to either 110%, 125%, or 150%.
