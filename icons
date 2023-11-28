@@ -33,6 +33,7 @@ for_window [app_id=^org.kde.kdenlive$] title_format "­<span size='125%'>  </
 for_window [app_id=^org.pipewire.Helvum$] title_format "­<span size='125%'>  </span>%title"
 for_window [app_id=^org.gnome.Chess$] title_format "­<span size='125%'>󰡘  </span>%title"
 for_window [app_id=^pitivi$] title_format "­<span size='110%'>  </span>%title"
+for_window [app_id=^pavucontrol] title_format "­<span size='120%'>  </span>%title"
 for_window [app_id=^quadrapassel$] title_format "­<span size='125%'>  </span>%title"
 for_window [app_id=^rhythmbox$] title_format "­<span size='125%'>󰓃  </span>%title"
 for_window [app_id=^soundux$] title_format "­<span size='125%'>󰇥  </span>%title"
