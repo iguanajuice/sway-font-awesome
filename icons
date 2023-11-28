@@ -73,3 +73,5 @@ for_window [class=^steam$] title_format "­<span size='133%' font-weight='normal
 for_window [class=^Timeshift-gtk$] title_format "­<span size='120%' font-weight='normal'>  </span>%title"
 for_window [class=^VirtualBox] title_format "­<span size='100%' font-weight='normal'>  </span>%title"
 for_window [class=^vlc$] title_format "­<span size='120%' font-weight='normal'>󰕼  </span>%title"
+
+# foobar!
