@@ -61,7 +61,7 @@ for_window [class=^Gimp-] title_format "­<span size='150%' font-weight='normal'
 for_window [class=^Godot$] title_format "­<span size='120%' font-weight='normal'>  </span>%title"
 for_window [class=^heroic$] title_format "­<span size='133%' font-weight='normal'>󱢾  </span>%title"
 for_window [class=^krita$] title_format "­<span size='120%' font-weight='normal'>  </span>%title"
-for_window [class=^Lxappearance$] title_format "­<span size='120%' font-weight='normal'>󱥚  </span>%title"
+for_window [class=^Lxappearance$] title_format "­<span size='100%' font-weight='normal'>  </span>%title"
 for_window [class=^LBRY$] title_format "­<span size='133%' font-weight='normal'>  </span>%title"
 for_window [class=^Microsoft-edge$] title_format "­<span size='110%' font-weight='normal'> </span>%title"
 for_window [class=^obs$] title_format "­<span size='120%' font-weight='normal'>  </span>%title"
