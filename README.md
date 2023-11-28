@@ -38,7 +38,7 @@ git clone https://github.com/iguanajuice/sway-font-awesome
 4. Add lines...
 ```
 # Enable title bar icons
-exec cd ~/.config/sway/sway-font-awesome && git reset && git pull
+exec cd ~/.config/sway/sway-font-awesome && git reset --hard && git pull
 include sway-font-awesome/icons
 ```
 ...to `~/.config/sway/config`
