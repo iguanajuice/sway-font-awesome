@@ -29,11 +29,17 @@ sudo pacman -S ttf-nerd-fonts-symbols
 
 Every other distro: https://github.com/ryanoasis/nerd-fonts/releases
 
-3. Copy the `icons` file to `~/.config/sway/`
-
-4. Add line...
+3. Clone the repo to `~/.config/sway/`
 ```
-include icons
+cd ~/.config/sway/
+git clone https://github.com/iguanajuice/sway-font-awesome
+```
+
+4. Add lines...
+```
+# Enable title bar icons
+exec cd ~/.config/sway/sway-font-awesome && git pull
+include sway-font-awesome/icons
 ```
 ...to `~/.config/sway/config`
 
