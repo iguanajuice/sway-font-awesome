@@ -6,7 +6,19 @@ Normally, this is very tedidous to do; so to not waste time on a grand scale wit
 
 # Usage
 
-1. Install Nerd Font Symbols, if not already installed.
+1. Install Font Awesome.
+
+Arch-based:
+```
+sudo pacman -S ttf-font-awesome
+```
+
+Debian-based:
+```
+sudo apt install fonts-font-awesome
+```
+
+2. Install Nerd Font Symbols.
 
 Arch-based:
 ```
@@ -15,22 +27,17 @@ sudo pacman -S ttf-nerd-fonts-symbols
 
 Every other distro: https://github.com/ryanoasis/nerd-fonts/releases/download/v3.1.1/NerdFontsSymbolsOnly.zip
 
-It's also recommended to remove Font Awesome to avoid conflicts:
-```
-sudo pacman -R ttf-font-awesome
-```
+3. Copy the `icons` file to `~/.config/sway/`
 
-2. Copy the `icons` file to `~/.config/sway/`
-
-3. Add line...
+4. Add line...
 ```
 include icons
 ```
 ...to `~/.config/sway/config`
 
-4. Enable pango in sway's config:
+5. Enable pango in sway's config:
 ```
-font pango:YourChoiceOfFont font_size
+font pango:YourChoiceOfFont [font_size]
 ```
 
 # Contribution
@@ -43,7 +50,8 @@ Things to know before contributing:
 * Be sure to update via `git pull` before opening any issues.
 * Everything should be sorted alphabetically.
 * `app_id` and `class` entries should stay seperated.
-* Icon should be wrapped in \<span size='larger'> and \</span> tags.
+* Icon should be from Font Awesome primarily; only use Nerd Fonts Symbols if FA has nothing better.
+* Icon should be wrapped in \<span size='100%'> and \</span> tags.
 * Inbetween the icon and \</span> there must be 2 spaces.
 * Due to a bug in god knows where, the first \<span> tag must be preceded by a soft-hyphen. You can type this special character by pressing Ctrl+Shift+u, typing "ad", and pressing enter.
-* If an icon is smaller than average, replace size='larger' with size='x-large'.
+* If an icon is smaller than average, increase size to either 110%, 125%, or 150%.
