@@ -55,7 +55,7 @@ If there are any apps that I haven't added an icon for yet; please open an issue
 You can find the app_id/class by launching the app and running `swaymsg -t get_tree` in a terminal.
 
 Things to know before contributing:
-* Be sure to update via `git pull` before opening any issues.
+* Be sure to update icons by relogging in before opening any issues.
 * Everything should be sorted alphabetically.
 * `app_id` and `class` entries should stay seperated.
 * Icon should be from Font Awesome primarily; only use Nerd Fonts Symbols if FA has nothing better.
