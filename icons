@@ -1,4 +1,5 @@
 for_window [app_id=^Alacritty$|^foot$|^footclient$|^kitty$|-terminal$] title_format "­<span size='100%' font-weight='bold'>  </span>%title"
+for_window [app_id=^avahi-discover$|^bssh$|^bvnc$] title_format "­<span size='100%' font-weight='bold'>  </span>%title"
 for_window [app_id=^assistant$|^designer$|^linguist$|^qdbusviewer$] title_format "­<span size='133%' font-weight='normal'>󰜬  </span>%title"
 for_window [app_id=^audacity$] title_format "­<span size='110%' font-weight='normal'>  </span>%title"
 for_window [app_id=^blender$] title_format "­<span size='133%' font-weight='normal'>󰂫  </span>%title"
@@ -34,6 +35,7 @@ for_window [app_id=^libreoffice-writer$] title_format "­<span size='100%' font-
 for_window [app_id=^lutris$] title_format "­<span size='100%' font-weight='normal'>  </span>%title"
 for_window [app_id=^mpv$] title_format "­<span size='110%' font-weight='normal' rise='-1pt'>  </span>%title"
 for_window [app_id=^org.gnome.Chess$] title_format "­<span size='120%' font-weight='normal'>󰡘  </span>%title"
+for_window [app_id=^org.inkscape.Inkscape$] title_format "­<span size='120%' font-weight='normal'>  </span>%title"
 for_window [app_id=^org.kde.kdenlive$] title_format "­<span size='120%' font-weight='normal'>  </span>%title"
 for_window [app_id=^org.libretro.RetroArch$] title_format "­<span size='133%' font-weight='normal'>󰯉  </span>%title"
 for_window [app_id=^org.pipewire.Helvum$] title_format "­<span size='120%' font-weight='normal'>  </span>%title"
