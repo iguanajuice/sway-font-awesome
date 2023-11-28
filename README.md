@@ -48,7 +48,7 @@ include sway-font-awesome/icons
 font pango:YourChoiceOfFont [font_size]
 ```
 
-# Contribution
+# Contributing
 
 If there are any apps that I haven't added an icon for yet; please open an issue with the `app_id` or `class` of the application that's missing an icon.
 
@@ -58,9 +58,9 @@ Things to know before contributing:
 * Be sure to update icons by relogging in before opening any issues.
 * Everything should be sorted alphabetically.
 * `app_id` and `class` entries should stay seperated.
-* Icon should be from Font Awesome primarily; only use Nerd Fonts Symbols if FA has nothing better.
+* Icon should be from Font Awesome primarily. Use Nerd Fonts Symbols if FA has nothing better.
 * Icon should be wrapped in \<span size='100%' font-weight='normal'> and \</span> tags.
-* Inbetween the icon and \</span> there must be 2 spaces.
+* There must be 2 spaces right after the icon.
 * Due to a bug in god knows where, the first \<span> tag must be preceded by a soft-hyphen. You can type this special character by pressing Ctrl+Shift+u, typing "ad", then pressing enter.
 * If an icon is rendered too small, increase size to 110%, 120%, 133%, or 150%. Icon size should be consistent to one another.
 * If an icon is placed too high, use `rise='-1pt'` to lower it.
