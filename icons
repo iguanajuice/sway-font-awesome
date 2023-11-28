@@ -18,7 +18,7 @@ for_window [app_id=^gnome-boxes$] title_format "­<span size='125%'>  </span>
 for_window [app_id=^gnome-mines$] title_format "­<span size='125%'>󰈿  </span>%title"
 for_window [app_id=^gnome-tetravex$] title_format "­<span size='125%'>󰐱  </span>%title"
 for_window [app_id=^gtk3-|^org.gtk.] title_format "­<span size='125%'>  </span>%title"
-for_window [app_id=^io.github.celluloid_player.Celluloid$] title_format "­<span size='100%'>  </span>%title"
+for_window [app_id=^io.github.celluloid_player.Celluloid$] title_format "­<span size='110%'>  </span>%title"
 for_window [app_id=^libreoffice-startcenter$] title_format "­<span size='125%'>  </span>%title"
 for_window [app_id=^libreoffice-base$] title_format "­<span size='100%'>  </span>%title"
 for_window [app_id=^libreoffice-calc$] title_format "­<span size='110%'>  </span>%title"
