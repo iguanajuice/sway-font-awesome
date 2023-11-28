@@ -4,6 +4,7 @@ for_window [app_id=^assistant$|^designer$|^linguist$|^qdbusviewer$] title_format
 for_window [app_id=^audacity$] title_format "­<span size='110%' font-weight='normal'>  </span>%title"
 for_window [app_id=^blender$] title_format "­<span size='133%' font-weight='normal'>󰂫  </span>%title"
 for_window [app_id=^com.github.hluk.copyq$] title_format "­<span size='110%' font-weight='bold'>  </span>%title"
+for_window [app_id=^com.usebottles.Bottles$] title_format "­<span size='110%' font-weight='bold'>  </span>%title"
 for_window [app_id=^com.github.tchx84.Flatseal$] title_format "­<span size='133%' font-weight='normal'>󱛟  </span>%title"
 for_window [app_id=^com.obsproject.Studio$] title_format "­<span size='120%' font-weight='normal'>  </span>%title"
 for_window [app_id=^corectrl$|^radeon-profile$] title_format "­<span size='120%' font-weight='normal'>󰙪  </span>%title"
@@ -47,6 +48,7 @@ for_window [app_id=^rhythmbox$] title_format "­<span size='120%' font-weight='n
 for_window [app_id=^soundux$] title_format "­<span size='120%' font-weight='normal'>󰇥  </span>%title"
 for_window [app_id=^virt-manager$] title_format "­<span size='100%' font-weight='normal'>  </span>%title"
 for_window [app_id=^vlc$] title_format "­<span size='110%' font-weight='normal'>󰕼  </span>%title"
+for_window [app_id=^zenity$] title_format "­<span size='110%' font-weight='normal' rise='-1pt'>  </span>%title"
 
 for_window [class=^Ardour$] title_format "­<span size='120%' font-weight='normal'>󰔶  </span>%title"
 for_window [class=^Audacity$|^lmms] title_format "­<span size='110%' font-weight='normal'>  </span>%title"
