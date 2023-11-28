@@ -62,5 +62,5 @@ Things to know before contributing:
 * Icon should be wrapped in \<span size='100%' font-weight='normal'> and \</span> tags.
 * Inbetween the icon and \</span> there must be 2 spaces.
 * Due to a bug in god knows where, the first \<span> tag must be preceded by a soft-hyphen. You can type this special character by pressing Ctrl+Shift+u, typing "ad", and then pressing enter.
-* If an icon is rendered too small, increase size to 110%, 120%, 133%, or 150%. Icons should be consistent sizes to one another.
+* If an icon is rendered too small, increase size to 110%, 120%, 133%, or 150%. Icon size should be consistent to one another.
 * If an icon is placed too high, use `rise='-1pt'` to lower it.
