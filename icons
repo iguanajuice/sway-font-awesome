@@ -60,7 +60,7 @@ for_window [class=^qalculate-qt$] title_format "­<span size='125%'>󰃬  </span
 for_window [class=^qpwgraph$] title_format "­<span size='125%'>  </span>%title"
 for_window [class=^Shotcut$] title_format "­<span size='125%'>󰏡  </span>%title"
 for_window [class=^Signal$] title_format "­<span size='110%'>  </span>%title"
-for_window [class=^steam$] title_format "­<span size='125%'>󰓓  </span>%title"
+for_window [class=^steam$] title_format "­<span size='125%'>  </span>%title"
 for_window [class=^Timeshift-gtk$] title_format "­<span size='125%'>  </span>%title"
 for_window [class=^VirtualBox] title_format "­<span size='100%'>  </span>%title"
 for_window [class=^vlc$] title_format "­<span size='125%'>󰕼  </span>%title"
