@@ -18,6 +18,8 @@ Debian-based:
 sudo apt install fonts-font-awesome
 ```
 
+Every other distro: https://fontawesome.com/download
+
 2. Install Nerd Font Symbols.
 
 Arch-based:
