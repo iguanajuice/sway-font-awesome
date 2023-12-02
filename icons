@@ -49,7 +49,7 @@ for_window [app_id=^pitivi$] title_format "­<span size='100%' font-weight='norm
 for_window [app_id=^pavucontrol] title_format "­<span size='120%' font-weight='normal'>  </span>%title"
 for_window [app_id=^quadrapassel$] title_format "­<span size='120%' font-weight='normal'>  </span>%title"
 for_window [app_id=^rhythmbox$] title_format "­<span size='120%' font-weight='normal'>󰓃  </span>%title"
-for_window [app_id=^soundux$] title_format "­<span size='120%' font-weight='normal'>󰇥  </span>%title"
+for_window [app_id=^soundux$] title_format "­<span size='133%' font-weight='normal'>󰇥  </span>%title"
 for_window [app_id=^virt-manager$] title_format "­<span size='100%' font-weight='normal'>  </span>%title"
 for_window [app_id=^vlc$] title_format "­<span size='110%' font-weight='normal'>󰕼  </span>%title"
 for_window [app_id=^zenity$] title_format "­<span size='110%' font-weight='normal' rise='-1pt'>  </span>%title"
