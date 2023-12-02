@@ -59,8 +59,8 @@ Things to know before contributing:
 * Everything should be sorted alphabetically.
 * `app_id` and `class` entries should stay seperated.
 * Icon should be from Font Awesome primarily. Use Nerd Fonts Symbols if FA has nothing better.
-* Icon should be wrapped in \<span size='100%' font-weight='normal'> and \</span> tags.
-* There must be 2 spaces right after the icon.
+* Icon should be wrapped in `<span size='100%' font-weight='normal'>` and `</span>` tags.
+* There must be a space between `</span>` and `%title`.
 * Due to a bug in god knows where, the first \<span> tag must be preceded by a soft-hyphen. You can type this special character by pressing Ctrl+Shift+u, typing "ad", then pressing enter.
 * If an icon is rendered too small, increase size to 110%, 120%, 133%, or 150%. Icon size should be consistent to one another.
 * If an icon is placed too high, use `rise='-1pt'` to lower it.
