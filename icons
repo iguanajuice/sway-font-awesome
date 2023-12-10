@@ -3,6 +3,7 @@ for_window [app_id=^avahi-discover$|^bssh$|^bvnc$] title_format "­<span size='1
 for_window [app_id=^assistant$|^designer$|^linguist$|^qdbusviewer$] title_format "­<span size='133%' font-weight='normal'>󰜬</span> %title"
 for_window [app_id=^audacity$] title_format "­<span size='120%' font-weight='normal'></span> %title"
 for_window [app_id=^blender$] title_format "­<span size='133%' font-weight='normal'>󰂫</span> %title"
+for_window [app_id=^cinnamon-settings.py$] title_format "­<span size='110%' font-weight='bold'></span> %title"
 for_window [app_id=^com.github.hluk.copyq$] title_format "­<span size='110%' font-weight='bold'></span> %title"
 for_window [app_id=^com.usebottles.Bottles$] title_format "­<span size='110%' font-weight='bold'></span> %title"
 for_window [app_id=^com.github.tchx84.Flatseal$] title_format "­<span size='133%' font-weight='normal'>󱛟</span> %title"
