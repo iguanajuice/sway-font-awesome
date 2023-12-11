@@ -1,4 +1,5 @@
 for_window [app_id=^Alacritty$|^foot$|^footclient$|^kitty$|-terminal$] title_format "­<span size='100%' font-weight='bold'></span> %title"
+for_window [app_id=^antimicrox$] title_format "­<span size='110%' font-weight='bold' rise='-1pt'></span> %title"
 for_window [app_id=^avahi-discover$|^bssh$|^bvnc$] title_format "­<span size='100%' font-weight='bold'></span> %title"
 for_window [app_id=^assistant$|^designer$|^linguist$|^qdbusviewer$] title_format "­<span size='133%' font-weight='normal'>󰜬</span> %title"
 for_window [app_id=^audacity$] title_format "­<span size='120%' font-weight='normal'></span> %title"
