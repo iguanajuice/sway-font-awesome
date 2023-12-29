@@ -41,7 +41,7 @@ for_window [app_id=^libreoffice-draw$] title_format "­<span size='100%' font-we
 for_window [app_id=^libreoffice-impress$] title_format "­<span size='110%' font-weight='bold'></span> %title"
 for_window [app_id=^libreoffice-math$] title_format "­<span size='110%' font-weight='normal' rise='-1pt'></span> %title"
 for_window [app_id=^libreoffice-writer$] title_format "­<span size='110%' font-weight='normal' rise='-1pt'></span> %title"
-for_window [app_id=^lutris$] title_format "­<span size='110%' font-weight='normal' rise='-1pt'></span> %title"
+for_window [app_id=^lutris$] title_format "­<span size='100%' font-weight='normal' rise='-.5pt'></span> %title"
 for_window [app_id=^mpv$] title_format "­<span size='110%' font-weight='normal' rise='-1pt'></span> %title"
 for_window [app_id=^org.gnome.Chess$] title_format "­<span size='120%' font-weight='normal'>󰡘</span> %title"
 for_window [app_id=^org.inkscape.Inkscape$] title_format "­<span size='120%' font-weight='normal'></span> %title"
