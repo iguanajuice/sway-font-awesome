@@ -51,6 +51,7 @@ for_window [app_id=^org.libretro.RetroArch$] title_format "­<span size='133%' f
 for_window [app_id=^org.prismlauncher.PrismLauncher$] title_format "­<span size='120%' font-weight='normal'>󰍳</span> %title"
 for_window [app_id=^org.pipewire.Helvum$] title_format "­<span size='133%' font-weight='normal'></span> %title"
 for_window [app_id=^org.qbittorrent.qBittorrent$|transmission] title_format "­<span size='120%' font-weight='normal'></span> %title"
+for_window [app_id=^org.wireshark.Wireshark$|transmission] title_format "­<span size='120%' font-weight='normal'>󱙳</span> %title"
 for_window [app_id=^pitivi$] title_format "­<span size='100%' font-weight='normal'></span> %title"
 for_window [app_id=^pavucontrol] title_format "­<span size='120%' font-weight='normal'></span> %title"
 for_window [app_id=^quadrapassel$] title_format "­<span size='110%' font-weight='normal'></span> %title"
