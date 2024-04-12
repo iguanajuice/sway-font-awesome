@@ -65,7 +65,6 @@ for_window [app_id=^vlc$] title_format "­<span size='110%' font-weight='normal'
 for_window [app_id=^waterfox$] title_format "­<span size='120%' font-weight='normal' rise='-1pt'></span> %title"
 for_window [app_id=^Waydroid] title_format "­<span size='120%' font-weight='normal' rise='-1pt'></span> %title"
 
-
 for_window [class=^Ardour$] title_format "­<span size='120%' font-weight='normal'>󰔶</span> %title"
 for_window [class=^Audacity$|^lmms] title_format "­<span size='150%' font-weight='normal' rise='-1pt'>󱑽</span> %title"
 for_window [class=^Bitwarden$] title_format "­<span size='120%' font-weight='normal' rise='-1pt'></span> %title"
