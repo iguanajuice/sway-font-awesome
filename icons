@@ -63,6 +63,7 @@ for_window [app_id=^soundux$] title_format "­<span size='133%' font-weight='nor
 for_window [app_id=^virt-manager$] title_format "­<span size='100%' font-weight='normal'></span> %title"
 for_window [app_id=^vesktop$] title_format "­<span size='100%' font-weight='normal'></span> %title"
 for_window [app_id=^vlc$] title_format "­<span size='110%' font-weight='normal'>󰕼</span> %title"
+for_window [app_id=^vscode$|^code-url-handler$] title_format "­<span size='133%' font-weight='normal' rise='-1pt'></span> %title"
 for_window [app_id=^waterfox$] title_format "­<span size='120%' font-weight='normal' rise='-1pt'></span> %title"
 for_window [app_id=^Waydroid] title_format "­<span size='120%' font-weight='normal' rise='-1pt'></span> %title"
 
