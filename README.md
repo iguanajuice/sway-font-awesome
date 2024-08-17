@@ -39,7 +39,8 @@ git clone https://github.com/iguanajuice/sway-font-awesome
 ```
 # Enable title bar icons
 exec cd ~/.config/sway/sway-font-awesome && git reset --hard && git pull
-include sway-font-awesome/icons
+include sway-font-awesome/icons-wl
+include sway-font-awesome/icons-x11 # exclude if sway is compiled without xwayland
 ```
 ...to `~/.config/sway/config`
 
