@@ -19,7 +19,7 @@ for_window [app_id=^dconf-editor$|^qt5ct$|^qt6ct$] title_format "­<span size='1
 for_window [app_id=^eog$|^eom$|^feh$|^ristretto$|^xviewer$|^imv$] title_format "­<span size='100%' font-weight='normal'></span> %title"
 for_window [app_id=^epiphany$|^org.qutebrowser.qutebrowser$] title_format "­<span size='110%' font-weight='normal'></span> %title"
 for_window [app_id=^file-roller$] title_format "­<span size='120%' font-weight='normal'></span> %title"
-for_window [app_id=^firefox$|^librewolf$|^firedragon$|^org.mozilla.firefox$] title_format "­<span size='120%' font-weight='normal' rise='-1pt'></span> %title"
+for_window [app_id=^firefox$|^librewolf$|^firedragon$|^org.mozilla.firefox$|^firefox-esr$] title_format "­<span size='120%' font-weight='normal' rise='-1pt'></span> %title"
 for_window [app_id=^galculator$|^gnome-calculator$|^mate-calc$|^org.kde.kalk$|^org.kde.kcalc$|^qalculate-gtk$] title_format "­<span size='120%' font-weight='normal'>󰃬</span> %title"
 for_window [app_id=^gedit$|^kate$|^mousepad$|^xed$] title_format "­<span size='110%' font-weight='normal' rise='-1pt'></span> %title"
 for_window [app_id=^gimp-] title_format "­<span size='150%' font-weight='normal'></span> %title"
