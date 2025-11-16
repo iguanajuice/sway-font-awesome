@@ -4,6 +4,7 @@ for_window [class=^Bitwarden$] title_format "­<span size='120%' font-weight='no
 for_window [class=^Brave-browser$|^Vivaldi-stable$] title_format "­<span size='110%' font-weight='normal'></span> %title"
 for_window [class=^Caja$|^Pcmanfm$] title_format "­<span size='110%' font-weight='normal'></span> %title"
 for_window [class=^Chromium$|^Chromium-browser$|^Google-chrome$] title_format "­<span size='110%' font-weight='normal'></span> %title"
+for_window [class=^com.github.th_ch.youtube_music$] title_format "­<span size='100%' font-weight='normal'></span> %title"
 for_window [class=^qBittorrent$|^transmission$] title_format "­<span size='120%' font-weight='normal'></span> %title"
 for_window [class=^Discord$|^WebCord$|^vesktop$] title_format "­<span size='100%' font-weight='normal'></span> %title"
 for_window [class=^dolphin-emu$] title_format "­<span size='120%' font-weight='normal'>󱢴</span> %title"
